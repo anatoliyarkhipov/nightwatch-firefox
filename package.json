@@ -1,0 +1,11 @@
+{
+  "name": "nightwatch-firefox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "aarkhipov <aarkhipov1991@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nightwatch": "^0.9.16",
+    "webdriver-manager": "^12.0.6"
+  }
+}
