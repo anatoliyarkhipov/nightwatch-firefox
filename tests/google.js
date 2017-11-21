@@ -1,5 +1,5 @@
 module.exports = {
-  'Demo test Google': function (client) {
+  'Example Test': function (client) {
     client
       .url('http://www.example.com')
       .waitForElementVisible('body', 1000)
