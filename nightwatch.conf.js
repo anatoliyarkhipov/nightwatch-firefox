@@ -13,7 +13,7 @@ module.exports = {
     "port": 4444,
     "cli_args": {
       "webdriver.chrome.driver": "",
-      "webdriver.gecko.driver": "",
+      "webdriver.gecko.driver": "./node_modules/webdriver-manager/selenium/geckodriver-v0.19.1.exe",
       "webdriver.edge.driver": ""
     }
   },
